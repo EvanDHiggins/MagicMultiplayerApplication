@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="RefactoredMagicApplication:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/RefactoredMagicApplication_jar</output-path>
+    <root id="archive" name="RefactoredMagicApplication_jar.jar">
+      <element id="module-output" name="RefactoredMagicApplication" />
+    </root>
+  </artifact>
+</component>
